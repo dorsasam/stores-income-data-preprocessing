@@ -28,7 +28,7 @@ Any country names that are not matched by Fuzzywuzzy will be handled manually.
 ## Installation
 - Clone the repository:
 ```bash
-git clone https://github.com/yourusername/department-store-income-data-cleaning.git
+git clone https://github.com/dorsasam/department-store-income-data-cleaning.git
 ```
 - Navigate to the project directory:
 ```bash
